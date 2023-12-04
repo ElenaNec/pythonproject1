@@ -3,3 +3,7 @@ login: "kitty89"
 password: "61d96a3985"
 url2: "https://test-stand.gb.ru/api/posts"
 id: "88934"
+
+content: "content"
+description: "description"
+title: "title"

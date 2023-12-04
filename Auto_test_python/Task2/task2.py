@@ -32,3 +32,13 @@ def get_list_id(token):
         list_id.append(elem.get('id'))
     return list_id
 
+# def get_list_description(token):
+#     url2 = data["url2"]
+#     list_description = []
+#     d = []
+#     res_get = requests.get(url=url2, headers={"X-Auth-Token": token}, params={"owner": "notMe"})
+#     dict_get = res_get.json()
+#     d = dict_get.get('data')
+#     for elem in d:
+#         list_description.append(elem.get('description'))
+#     return list_description

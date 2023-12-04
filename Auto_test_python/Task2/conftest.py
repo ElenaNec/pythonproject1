@@ -18,4 +18,15 @@ def return_token():
     return get_list_id(token)
 
 
+# @pytest.fixture(autouse=True)
+# def create_post():
+#     url2 = data["url2"]
+#     content = data["content"]
+#     description = data["description"]
+#     title = data["title"]
+#     result_post = (requests.post(url=url2, data={"title": title, "description": description, "content": content})).json()
+#     return result_post
+
+
+
 
