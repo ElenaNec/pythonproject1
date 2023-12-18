@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 5
+login: Petrr
+password: fa258a35d9
+url2: https://test-stand.gb.ru/api/posts
+
+url: https://test-stand.gb.ru/gateway/login
+id: 88934
+content: content
+description: description
+title: title
